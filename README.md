@@ -1,2 +1,2 @@
-# polling_analysis
+# Polling Analysis
 Analysis of Public Polling Data
